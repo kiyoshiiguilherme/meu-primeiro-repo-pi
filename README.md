@@ -2,3 +2,5 @@
 Primeiro Repositório da Aula de PI :)
 
 ALterando repositório remotamente :)
+
+Alterando repositório LOCALMENTE :)
